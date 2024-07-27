@@ -8,4 +8,4 @@ Esta página lo redireccionará a diferentes tipos de análisis espacial que ref
 
 ## Páginas Principales
 - `map.html`: Mapa de estaciones
-- `pereira_pm25.html`: Análisis de calidad de aire a partir del tráfico vehícular
+- (https://rise-group.github.io/rise_mobility.github.io/pereira_pm25)`: Análisis de calidad de aire a partir del tráfico vehícular
